@@ -15,6 +15,8 @@
 ## UML
 ![basic-authUML](./UML/basic-authUML.jpg)
 
-+ [heruko]()
-+ [open pull req]()
-+ [actions]()
++ [heroku](https://hala-basuc-auth.herokuapp.com/)
++ [open pull req](https://github.com/hala277/basic-auth/pull/1)
++ [actions](https://github.com/hala277/basic-auth/actions)
++ https://hala-basuc-auth.herokuapp.com/signin
++ https://hala-basuc-auth.herokuapp.com/signup
