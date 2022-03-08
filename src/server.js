@@ -30,11 +30,17 @@ app.post('/signin',signInRote);
 // app.post('/signup',signUpRoute);
 // start function 
 
+// async function signinFunc(req,res) {
+//     res.status(200).json(req.user);
+// }
+
 // 500 rout handler
 app.use(errorHandler);
 
 // 404 rout handler
 app.use(errorHandler2); 
+
+
 
 function start(port){
     app.listen(port,()=>{
